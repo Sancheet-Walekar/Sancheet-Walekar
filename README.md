@@ -5,7 +5,7 @@
 <img align="right"alt="Coding"width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently pursuing my Master's in Computer Applications from MET Institute of Computer Science.
 
-- 🌱 I’m currently learning **React Native.**
+- ⌨️ Programming languages : Javascript (Proficient), Java (intermediate), C , C++.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sancheet-Walekar](https://github.com/Sancheet-Walekar).
 
